@@ -32,26 +32,26 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
 
-##🔍 Clustering Technique
+## 🔍 Clustering Technique
 Algorithm: K-Means
 
 Optimal k: Determined using the Elbow Method
 
 Visualization: Scatter plots of Annual Income vs Spending Score, colored by cluster
 
-##📈 Output
+## 📈 Output
 Visualized customer clusters
 
 Business-friendly interpretation of each segment
 
-##💡 Use Cases
+## 💡 Use Cases
 Targeted advertising
 
 Product personalization
 
 Customer loyalty analysis
 
-##📌 Sample Insight
+## 📌 Sample Insight
 For example:
 
 One cluster may represent young high-income high-spenders
