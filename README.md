@@ -51,7 +51,7 @@ Product personalization
 
 Customer loyalty analysis
 
-## 📌 Sample Insight
+## 📌Insight
 For example:
 
 One cluster may represent young high-income high-spenders
